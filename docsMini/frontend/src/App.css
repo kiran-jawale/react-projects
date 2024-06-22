@@ -1,0 +1,12 @@
+#bg{
+    z-index:0 ;
+}
+#fg{
+    z-index:10 ;
+}
+#header{
+    z-index:30 ;
+}
+#footer{
+    z-index:30 ;
+}
