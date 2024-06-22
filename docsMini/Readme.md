@@ -20,9 +20,16 @@ Connect MongoDB
 Open your browser and navigate to url where hosted the app using Vite to access the frontend.
 Use the application to manage your documents.
 
+##Future Improvements
+Implementation of Auth
+Uploads and Downloads of document files.
+
 ##Disclaimer
 The app features data flow between frontend and backend, as well as interactive UX with framer-motion. 
 It doesn't implement Auth nor documents(files) uploading and downloading.
+
+##Contributing
+Want to contribute to Docs Mini? We'd love to have you on board! Please fork the repository, make your changes, and submit a pull request. You can also report issues or suggest new features on our issue tracker.
 
 License
 This project is licensed under the MIT License.
