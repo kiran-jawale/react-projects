@@ -10,7 +10,7 @@ Welcome to our React web app! This project is a single-page application built us
 Node.js (version 14 or higher)
 npm (version 6 or higher)
 *Installation
-Clone the repository: git clone https://github.com/kiran-jawale/react-projects.git
+Clone the repository: git clone https://github.com/kiran-jawale/react-projects/tree/main/modernUIUX.git
 Install dependencies: npm install
 Start the development server: npm start
 Running the App
