@@ -1,8 +1,18 @@
-# React + Vite
+3Frontend - Docs Mini Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Overview
+The frontend of the Docs Mini application is built using React. It provides a dynamic and interactive user interface for managing documents
+using tailwind cssand framer-motion
 
-Currently, two official plugins are available:
+##Features
+Document Management: Add, edit, and delete documents.
+Dynamic UI: Drag and move document cards, interactive modals.
+Responsive Design: Adjusts to different screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Customization
+Modify components in the src/components directory.
+Update context and state management in src/contexts/handleDom.jsx.
+
+##License
+This project is licensed under the MIT License.
+
