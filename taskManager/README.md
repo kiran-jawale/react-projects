@@ -26,7 +26,7 @@ npm
 Vite
 
 Installation
-Clone the repository: git clone https://github.com/your-username/task-management-dashboard.git
+Clone the repository: git clone https://github.com/kiran-jawale/react-projects/tree/maintaskManager
 Install dependencies: npm install
 Start the development server with vite : npm run dev
 
