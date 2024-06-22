@@ -3,13 +3,14 @@ Modern UI UX React Web App
 Welcome to our React web app! This project is a single-page application built using React,
  a popular JavaScript library for building user interfaces.
 
-*Getting Started
+Getting Started
 
-*Prerequisites
+Prerequisites
 
 Node.js (version 14 or higher)
 npm (version 6 or higher)
-*Installation
+
+Installation
 Clone the repository: git clone https://github.com/kiran-jawale/react-projects/tree/main/modernUIUX.git
 Install dependencies: npm install
 Start the development server: npm start
@@ -32,7 +33,7 @@ styles.js: a file that stores CSS styles as JavaScript objects, which are then u
 assets: a directory that contains images and other static assets used in your application.
 pages: a directory that contains individual page components, each with their own subdirectory containing the page's respective components.
 
-*Home Component
+Home Component
 The Home component is the main entry point of the app, located in Home.jsx. It renders the entire app layout, including the hero section, statistics, business, billing, card deal, testimonials, clients, and call-to-action sections.
 
 License
