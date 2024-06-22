@@ -11,7 +11,7 @@ npm
 Vite
 
 ##Steps
-Clone the repository: git clone https://github.com/kiran-jawale/react/tree/main/docsMini
+Clone the repository: git clone https://github.com/kiran-jawale/react-projects/tree/main/docsMini
 Running the React App
 Run backend with `npx nodemn app.js`
 Connect MongoDB
